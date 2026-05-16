@@ -1,0 +1,4 @@
+#python的安装
+使用 vscode anaconda(25.11.1) python(3.13.9) 
+插件 pytorch(2.11.0+cu130) Numpy(2.4.3) Pandas(3.0.2) Matplotlib(3.10.9) Opencv(4.13.0)
+
